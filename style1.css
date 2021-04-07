@@ -1,0 +1,60 @@
+.main{
+	float:left;
+	margin:-10px;
+    padding:50px;
+    background-color:blue;
+    width: 35%;
+
+}
+.second{
+	float:right;
+	margin:-10px;
+	padding:50px;
+	background-color: green;
+	width:51%;
+}
+.clear{
+	clear:both;
+}
+ nav{
+	background-color: red;
+	width:101%;
+	}
+ nav ul{
+	margin:-10px;
+	padding:55px;
+	width: 101%
+ }
+ nav ul li{
+	list-style: none;
+	float:left;
+	margin:0.5;
+	padding:20px;
+	background-color: yellow;
+}
+nav ul li a{text-decoration: none;  display: block;  width: 100%;}
+nav ul li:hover{background-color: lightgreen;}
+
+.fourth{
+	float:left;
+	margin:-10px;
+	padding:70px;
+	background-color: blue;
+	width:25%;  
+}
+.fifth{
+	float:right;
+	margin:-10px;
+	padding:70px;
+	background-color:green;
+	width:55%;
+}
+footer{
+	float:left;
+	background-color: yellow;
+	margin:-10px;
+	padding:80px;
+	width:91%;
+}
+
+
