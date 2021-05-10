@@ -1,0 +1,13 @@
+.top{
+	padding-top: 30px;
+}
+.main{
+	background-color: red;
+	width:15%;
+	padding-top: 20px;
+	margin-top: 10px;
+	text-align: center;
+	padding-bottom: 20px;
+	display: block;
+	margin: 20px;
+}

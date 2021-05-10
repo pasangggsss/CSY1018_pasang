@@ -1,0 +1,21 @@
+tr, td{
+	border:1px solid;
+}
+.maintable{
+	border:3px solid;
+	border-collapse: collapse;
+    background:#469DD4;
+}
+
+.mainlist{
+	background:#33EBFF;
+	border:4px solid;
+	border-radius: 30px;
+	list-style-type:none;
+}
+
+#list2{
+	color:black;
+	background:#33FFEB;
+	border:2px solid;
+}

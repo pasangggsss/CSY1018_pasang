@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Form
+	</title>
+</head>
+<body>
+	<form action= "/action_page.php">
+	<fieldset>
+			<legend> NAME</legend>
+			First Name: <br>
+			<input type="text" name="first name" required="required"><br><br>
+		    Last Name: <br>
+			<input type="text" name="last name" required="required">	<br><br>
+		</fieldset><br>	
+		<fieldset>			
+		    <legend>Gender</legend>		
+			   <input type="radio" name="gender" value="M"> Male	
+			   <input type="radio" name="gender" value="F"> Female
+			   <input type="radio" name="gender" value="O"> Others <br><br>
+		</fieldset><br>
+	
+		<fieldset>
+			<legend>Transportation</legend>
+			<input type="checkbox" name="car">CAR <br>
+			<input type="checkbox" name="bike">Bike<br>
+			<input type="checkbox" name="Walk">Walk <br><br>	
+		</fieldset><br>		
+		<fieldset>
+			<legend> Date Of Birth</legend>
+			<input type="date" name="DOB" max="05-09-2021" min="08-31-2001"><br><br>
+		</fieldset><br>
+		<fieldset>
+			<legend>Favourite color</legend>
+			Color:
+			<input type="color" name="fav_color"><br>
+		</fieldset><br>	
+        <fieldset>
+        	<legend>Mobile</legend>
+		    Phone Number:
+			<input type="number" name="numbers" > <br>
+		</fieldset><br>				
+			<input type="time" name="user_time"><br><br>			
+			<button>Submit</button> <br><br>
+			<textarea name="message" rows="10" cols="110">Let's put some thoughts here.!!</textarea>	
+	</form>
+</body>
+</html>

@@ -1,0 +1,36 @@
+.header{
+	background-color:#008080;
+	width:100%;
+	padding:10px;
+	text-align: center;
+
+}
+.Hit{
+	text-align: center;
+	background-color:#00FFFF;
+	margin-top:0px;
+	width:50%;
+	padding-bottom:470px;
+	padding-top:20px;
+}
+.Bit{
+	text-align:center;
+	background-color:#7fffd4;
+	margin-top:0px;
+	width:50%;
+	padding-bottom:470px;
+	padding-top:20px
+
+}
+body{
+	margin:0px;
+}
+.footer{
+	background-color:#008080;
+	padding-bottom: 70px;
+	text-align: center;
+
+}
+.lit{
+	display: flex;
+}

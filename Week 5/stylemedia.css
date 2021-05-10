@@ -1,0 +1,41 @@
+.header{
+	text-align: center;
+	background-color:#00FFFF;
+	width:100%;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin-top:10px;
+}
+.sit{
+	text-align:center;
+	background-color:#7fffd4;
+	padding-top: 30px;
+	padding-bottom:30px;
+}
+.lit{
+	text-align: center;
+	background-color:#008080;
+	width:70%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.mit{
+	text-align:center;
+	padding-top:200px; 
+	background-color: #00FFFF;
+	width: 30%;
+	}
+.git{
+	display: flex;
+   }
+.footer{
+	background-color:#7fffd4;
+	text-align:center; 
+	padding-top:25px;
+	padding-bottom: 25px;
+      }
+@media screen and (max-width:500px;){
+	body{
+		background:red;
+	}
+}
